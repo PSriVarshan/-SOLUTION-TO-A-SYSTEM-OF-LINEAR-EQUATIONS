@@ -31,7 +31,7 @@ print(sol)
 
 ## Output:
 
-![output](pic1.png)
+![](soltolineareq.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
